@@ -26,8 +26,12 @@ We invite you to contribute to the enhancement of our lab appointment system!
 🔧 Open issues for feedback, bug reports, or feature requests, especially focusing on improving user experience and accessibility.
 🤝 Join our community of contributors, dedicated to optimizing the lab appointment system for all users.
 
-📱 Contributing to Accessibility and User Experience
+📱 Explore Our Services Anywhere, Anytime
 
-We're looking for contributors to ensure that our lab appointment system is accessible to all users, regardless of the device they use. Whether your expertise lies in front-end development, usability testing, or responsive design, your contributions will help make our system more user-friendly and accessible.
+Discover our comprehensive range of medical tests and services with ease:
+
+Mobile-Friendly Interface: Access our website on your smartphone or tablet with a responsive design optimized for smaller screens.
+Tablet Compatibility: Enjoy a seamless browsing experience on tablets, with layouts and interactions tailored to larger touchscreens.
+Desktop Flexibility: Explore our services on desktop computers, where you can benefit from detailed information and enhanced usability.
 
 Let's work together to make scheduling lab appointments a seamless experience for everyone! 🌐🔬✨
